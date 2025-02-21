@@ -6,7 +6,7 @@ With the use of 12 threads, the panel will be found in seconds.
 
 ```cd ghost```
 
-```pip install -r requirements```
+```pip install -r requirements.txt```
 
 ```python ghost.py```
 
